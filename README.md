@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Weather App
+
+Hello! Welcome to my weather app. I, jemychen, created this weather app from scratch with a third party API during my time in bootcamp. During my time there, there were not much opportunity to learn and utilize API's. However, I really wanted to learn to use API's and decide to make my module 4 project with an API. However, since this was a solo project for myself it was a lot more difficult than I anticipated. With my introduction out of the way let me give a brief summary on how this application work.
+
+## How To Use The Weather App
+
+The app itself is very simple. As long as you're on the weather-app-frontend page of your text editor, you can boot up the application with `yarn start`. This starts the app through from your default browser. From there, you can easily type out cities for their temperature and weather. Looking up cities that are popular will return their result. So looking up 'Tokyo' will return it as 'Tokyo, JP', alongside the weather and temperature. The third party weather app, however, does not look up towns or villages that are very specific. An example: 'Madrid, NY' will not return any results as Madrid from Spain is the most well known. Looking up 'Madrid' returns 'Madrid, ES' for Madrid, Espana.
+
+Currently there is no backend portion for this project. Not because I do not want to, but rather I have no idea how a backend would look for a project as simple as this.
+
 ## Available Scripts
 
 In the project directory, you can run:
